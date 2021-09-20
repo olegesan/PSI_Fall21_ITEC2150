@@ -1,0 +1,12 @@
+Welcome to midterm review practice.
+
+I tried to guess what will be in the files for midterm and
+added a little cherry on top of it to challenge you just a bit.
+
+
+First of all, look at Character package.
+1. Look at AnimeCharacter class.
+2. Look at CharacterTester class. See the order of constructor parameters.
+3. Uncomment Commoner and Mage (I had to comment them to allow package compile and run).
+4. Implement Commoner and Mage classes to match skeleton. Some methods were implemented for you already.
+5. Try to have to charters and adjust code to allow them fighting. 
