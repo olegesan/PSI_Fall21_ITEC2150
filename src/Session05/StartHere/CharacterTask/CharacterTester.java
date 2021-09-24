@@ -1,4 +1,4 @@
-package Session5_midterm.StartHere.CharacterTask;
+package Session05.StartHere.CharacterTask;
 
 public class CharacterTester {
     public static void main(String[] args) {

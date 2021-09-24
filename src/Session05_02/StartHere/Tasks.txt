@@ -1,0 +1,17 @@
+Welcome to midterm review practice.
+
+Midterm will cover lots of inheritance;so, lets practice it with the characters from Avatar the Last AIr Bender
+
+1. Look at Human class.
+2. Look at Bender abstract class.
+What is unique about it? What does abstract mean? What method will sub classes have to implement?
+3. Look at fire bender class.
+What class does it inherit from? How did you see it?
+What method did we have to override? What method did we choose to override?
+4. Run the Avatar tester class. It has all things supplied for a fun battle.
+    Do not worry about random method and fight method for now
+5. Implement AirBender, EarthBender, and WaterBender classes.
+No need to make a lot of parameters or write getters and setters
+But try to understand the line of inheritance
+6. In tester class, add more characters and put the to a battle
+6.* if you can, make them battle till their stamina goes to 0. You can edit tester as well as any other class
